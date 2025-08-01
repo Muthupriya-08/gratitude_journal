@@ -31,12 +31,19 @@ After logging in, start adding your gratitude entries!
 📁 Folder Structure
 Copy code
 gratitude_journal/
+
 ├── app.py
+
 ├── users.csv
+
 ├── journal_entries.csv
+
 ├── requirements.txt
+
 ├── uploads/              ← saved images
+
 ├── weekly_notes/         ← saved reflections
+
 └── README.md
 🌐 Live App
 If deployed, you can add the link here:
